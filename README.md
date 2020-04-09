@@ -20,6 +20,12 @@ The collected data can be found in the [/logs](logs) directory, however the fiel
 Check the file for details about how to run it.
 
 
+## Report
+
+The [/latex](latex) folder contains the latex files used to generate the project report as well as the final version [report.pdf](latex/report.pdf).
+It contains details about the osquery configuration, the selected features, the collected data, the machine learning model and the results.
+
+
 ## Others
 
 The following Ruby scripts were used:
